@@ -1,1 +1,1 @@
-FROM docker.io/daxia2023/intel:latest
+FROM daxia2023/intel:latest
